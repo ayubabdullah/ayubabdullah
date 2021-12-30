@@ -1,7 +1,10 @@
 
 
 👋 &nbsp;Hey there! I'm Ayub
-![Ayub Abdullah](https://komarev.com/ghpvc/?username=ayubabdullah&color=blueviolet)
+<p align="center"> 
+ Visitors<br><br>
+  <img src="https://profile-counter.glitch.me/ayubabdullah/count.svg" />
+</p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
