@@ -1,6 +1,6 @@
 
 
-<!-- ## 👋 &nbsp;Hey there! I'm Ayub -->
+👋 &nbsp;Hey there! I'm Ayub
 
 ### 👨🏻‍💻 &nbsp;About Me
 
