@@ -12,7 +12,7 @@
 ✉️ &nbsp;You can send me an email at ayubzirar@gmail.com, I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1GCJMxS1itFYo8xz0eqeq9HcWOQN4i8NX/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -35,8 +35,8 @@
 
 <p align="center">
 <a href="https://github.com/ayubabdullah">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayubabdullah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayubabdullah&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayubabdullah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayubabdullah&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
