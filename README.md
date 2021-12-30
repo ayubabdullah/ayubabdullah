@@ -1,6 +1,7 @@
 
 
 👋 &nbsp;Hey there! I'm Ayub
+![Ayub Abdullah](https://komarev.com/ghpvc/?username=ayubabdullah&color=blueviolet)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
